@@ -1,2 +1,3 @@
 streamlit
-git+https://github.com/groq/groq-python.git
+git+https://github.com/groq/groq-python.git@main#egg=groq
+
