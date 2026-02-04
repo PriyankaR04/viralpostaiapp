@@ -40,6 +40,7 @@ if generate_btn:
             
             Rules:
             1. Start with a catchy Hook/Headline
+            2. Use Markdown bullet points
             3. Include relevant emojis
             4. End with a question to audience
             5. Add 5 trending hashtags
